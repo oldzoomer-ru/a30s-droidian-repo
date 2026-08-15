@@ -1,0 +1,25 @@
+Origin: https://oldzoomer-ru.github.io/a30s-droidian-repo
+Label: Droidian PKG
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: arm64
+Components: main
+Description: Packages 
+Date: Sat, 15 Aug 2026 10:52:48 +0000
+MD5Sum:
+ 2084b89bcbc71c7a1479560c7b16a217              221 Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-arm64/Packages
+ f35eccc571392a1c6ef4cfb0f47637a9               29 main/binary-arm64/Packages.gz
+SHA1:
+ cb72c3d35bc47d1d64e1dd7cccef1484aee27ed4              221 Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-arm64/Packages
+ 8e1dad917b7a7957a09eb9694a14f67e7d9549e0               29 main/binary-arm64/Packages.gz
+SHA256:
+ b44b560cbaded64dfe06f9e12d9e18c0a627113f864d1db44b46c7c0cc371d18              221 Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-arm64/Packages
+ 77da73d21c5e77f4d8fe95046c4d573a8c5acf6f40fb0e9fabfd676cad847762               29 main/binary-arm64/Packages.gz
+SHA512:
+ e4e915683956b711ce4b735a07b4d88ac34e55797292c769608efe8a5d8db52ab3d40e6f82e77b5730922197019c2475a4dd7341ed9285aa7f79baa7d89d3965              221 Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-arm64/Packages
+ d2ee5538903884e61043dcd5405dd2f3353d18657bf52d1121ce2a5b20916050f02676b237d6ea5341d40093508b4324283c1300df025835691e6ecdf1e83a52               29 main/binary-arm64/Packages.gz
